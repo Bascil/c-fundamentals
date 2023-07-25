@@ -6,24 +6,25 @@
  - Just like if you lean engish you can pick up other languages faster
 
  ## Programming
+ ## Language Compilers & Interpreter
  ## Programming Languages
+ Low vs High Level Languages
  ## History
  C has been around a really long time since 1970s
 
- 1960 - Algol
- 1967 - BCPL
- 1970 - B
- 1972 - Traditional C
- 1978 - K & RC
- 1989 - ANSI c
- 1990 - ANSI/ISO C
-
+ - 1960 - Algol
+ - 1967 - BCPL
+ - 1970 - B
+ - 1972 - Traditional C
+ - 1978 - K & RC
+ - 1989 - ANSI C
+ - 1990 - ANSI/ISO C
 
 C as a language is widely popular and has been changing over
 the years.
 
 You will learn over time that there is no such thing as the best 
-programming language. There are lots of them
+programming language. There are lots of them.
 
 They are designed to be good at certain things. All programming languages
 have advantages and disadvantages
